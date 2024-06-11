@@ -1,6 +1,7 @@
 # angular 
 
-adding some news
+adding some news very soon
+
 
 ## Development server
 
